@@ -1,6 +1,13 @@
+# vue.js
 .DS_Store
-node_modules
-/dist
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+src/_drafts
+package-lock.json
 
 # local env files
 .env.local
